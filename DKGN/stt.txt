@@ -1,0 +1,16 @@
+//update pip install
+pip install --upgrade pip
+
+//cai dat SpeechRecognition
+pip3 install SpeechRecognition
+
+//cai dat pyaudio
+//cai dat visual c++ 14.0 cho python truoc khi cai pyaudio
+pip3 install pyaudio
+
+//neu cai khong thanh cong
+pip install pipwin
+pipwin install pyaudio
+
+
+
